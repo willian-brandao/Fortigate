@@ -12,8 +12,8 @@ Conectar o cabo de rede do computador na porta 1 ou na porta interna do switch. 
 * IP: 192.168.1.99/24
   * Gerencia a interface em modelos em alto e média gama.
   * Port 1 ou interface interna em modelos de nível de entrada.
-* Protocolos PING, HTTPS, e Protocolo SSH são gerencialmente habiitados.
-* Servidor DHCP embutido é habilitado na prota 1 ou na interface interna.
+* Protocolos PING, HTTPS, e Protocolo SSH são gerencialmente habilitados.
+* Servidor DHCP embutido é habilitado na porta 1 ou na interface interna.
   * Somente nos modelos de nível de entrada suportam o servidor dhcp.
 * Login Padrão
   * Usuário: admin
